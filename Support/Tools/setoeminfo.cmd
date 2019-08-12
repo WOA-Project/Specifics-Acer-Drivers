@@ -1,2 +1,2 @@
 @echo off
-reg import \Windows\OEM\jadeprimo.reg
+reg import \Windows\OEM\Settings\jadeprimo.reg
