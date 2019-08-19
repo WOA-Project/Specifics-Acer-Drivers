@@ -21,5 +21,5 @@ Addreg    = upsidedowndisplaysupport_reg
 HKLM, "SYSTEM\ControlSet001\Control\GraphicsDrivers", "MonitorOrientation", 0x10001, 0x2 ; I've seen everything
 
 [Strings]
-IHV = "LumiaWOA Authors"
+IHV = "LumiaWoA authors"
 

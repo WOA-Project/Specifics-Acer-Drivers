@@ -36,6 +36,6 @@ jadeprimo.reg
 setoeminfo.cmd
 
 [Strings]
-IHV     = "LumiaWOA Authors"
+IHV     = "LumiaWoA authors"
 DiskId1 = "Device Info Installation Disk #1"
 
